@@ -1,0 +1,6 @@
+marathi
+hindi
+english
+math
+science
+computer
